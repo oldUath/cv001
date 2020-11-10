@@ -4,12 +4,13 @@
 ## 这是使用纯Js和CSS写的一个简历
 
 **使用parcel进行打包**
+
 运行
 ```js
 parcel src/index.html
 ```
 
-提交的git
+提交到git
 ```js
 git add .
 git commit -m 'init'
@@ -19,6 +20,7 @@ git commit -m 'init'
 ```js
  parcel build src/index.html --no-minify --public-url ./
 ```
+
 上传到github
 ```js
 git push
@@ -40,6 +42,3 @@ Vue3 mini-UI轮子 https://olduath.github.io/mini-UI-Uath/index.html
 
 
 
-# 肯德基防空导弹
-
-## 的飞机迪斯科解放
