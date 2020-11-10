@@ -3,7 +3,28 @@
 
 ## 这是使用纯Js和CSS写的一个简历
 
-使用parcel进行打包
+**使用parcel进行打包**
+运行
+```js
+parcel src/index.html
+```
+
+提交的git
+```js
+git add .
+git commit -m 'init'
+```
+
+重构
+```js
+ parcel build src/index.html --no-minify --public-url ./
+```
+上传到github
+```js
+git push
+```
+
+
 
 # 项目预览
 会动的皮卡丘 https://olduath.github.io/Pikachu-1/dist/test.html
